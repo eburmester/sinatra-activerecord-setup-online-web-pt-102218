@@ -9,7 +9,7 @@ gem 'activerecord', '4.2.5'
 gem 'sinatra-activerecord'
 gem 'thin'
 gem 'require_all'
-gem 'sqlite3' 
+ 
 
 group :development do
 	gem 'shotgun'
